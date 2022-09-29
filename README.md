@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Paulmcb9429
+- 👀 I’m interested in learning more on data science.
+- 🌱 I’m currently learning programming in R and SQL
+- 📫 Linkedin: https://www.linkedin.com/in/paul-maurice-canc%C3%A1n-bardales-2a27a7bb/
